@@ -1,0 +1,29 @@
+[ {
+  "correo" : "a@g.com",
+  "password" : "Ipmbtpzzp2.",
+  "autenticacion" : false,
+  "hora" : "10:04:17",
+  "fecha" : "07/08/2021",
+  "direccionIP" : "186.90.34.23",
+  "dinero" : 50.0,
+  "monedas" : [ {
+    "nombre" : "Bitcoin",
+    "cantidad" : 0.01039719,
+    "gasto" : 450.0,
+    "cantidadInvertida" : 0.01039719
+  } ]
+}, {
+  "correo" : "go@gm.com",
+  "password" : "Nbooz:680",
+  "autenticacion" : false,
+  "hora" : "11:01:44",
+  "fecha" : "07/08/2021",
+  "direccionIP" : "192.168.0.102",
+  "dinero" : 500.0,
+  "monedas" : [ {
+    "nombre" : "Bitcoin",
+    "cantidad" : 0.0,
+    "gasto" : 0.0,
+    "cantidadInvertida" : 0.0
+  } ]
+} ]
